@@ -356,7 +356,3 @@ nohup.out
 # Archive / compressed files
 *.gz
 *.tar.gz
-
-# H200-related files
-*h200*
-*H200*
